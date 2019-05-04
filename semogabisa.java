@@ -211,10 +211,6 @@ public class semogabisa extends javax.swing.JFrame{
         }
     }//GEN-LAST:event_ftambahsaldoActionPerformed
 
-    private void fisibayarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fisibayarActionPerformed
-        
-    }//GEN-LAST:event_fisibayarActionPerformed
-
     private void fbayarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fbayarActionPerformed
                 ceksaldo();   
         String transaksi = fCari.getText();
