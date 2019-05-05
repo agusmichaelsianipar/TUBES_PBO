@@ -125,9 +125,9 @@ public class CetakStruk extends javax.swing.JFrame {
             if (RUser.next()){
                 jTextArea1.setText("\n|================================|"+
                 "\n           STRUK PEMBAYARAN GALERI\t"+
-                "\n JL. Terusan Ryacudu, Way Hui, Jati Agung"+
-                "\n                Way Huwi, Lampung Selatan"+
-                "\n         INSTITUT TEKNOLOGI SUMATERA"+
+                "\n            JL. Terusan Ryacudu, Way Hui"+
+                "\n            Jati Agung, Lampung Selatan"+
+                "\n        INSTITUT TEKNOLOGI SUMATERA"+
                 "\n|================================|"+
                 "\n" +
                 "\n                ID Kartu            : " + RUser.getString(1)+
